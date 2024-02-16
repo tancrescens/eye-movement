@@ -10,7 +10,7 @@ There are 2 ways to run this project. Either online or locally.
 ### Locally
 > 1. Download this project by clicking "<> Code" and "Download Zip" <br>
 > 2. After the download, unzip it into a folder.<br>
-> 3. Go to file "Pacman-Exercise" and double-click "index.html"<br>
+> 3. Go to file "eye-movement" and double-click "index.html"<br>
 > 4. You have successfully run it!<br>
 
 ## Roadmap of future improvements
